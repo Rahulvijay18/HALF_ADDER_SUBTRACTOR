@@ -29,7 +29,7 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 Diff = A’B+AB’ =A ⊕ B
 Borrow = A’B
 
- ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
+![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
 Figure -02 HALF Subtractor
 
@@ -53,12 +53,12 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
+Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+
 ```
 Developed by: RAHUL VIJAY V
 RegisterNumber: 212223040164
 ```
-
-Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
 HALF ADDER
 ```
